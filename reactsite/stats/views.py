@@ -1,10 +1,12 @@
-from .models import Match
-from .serializers import MatchSerializer
+from .models import Player
+from .serializers import PlayerSerializer
 from rest_framework import generics, status
 # Create your views here.
 
-class MatchView(generics.ListAPIView):
-    queryset = Match.objects.all()
-    serializer_class = MatchSerializer
+class PlayerView(generics.ListAPIView):
+    queryset = Player.objects.all()
+    serializer_class = PlayerSerializer
+    
+
     
     

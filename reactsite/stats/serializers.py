@@ -1,7 +1,7 @@
 from rest_framework import serializers
-from .models import Match
+from .models import Player
 
-class MatchSerializer(serializers.ModelSerializer):
+class PlayerSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Match
+        model = Player
         fields = '__all__'
