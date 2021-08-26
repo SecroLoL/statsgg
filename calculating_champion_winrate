@@ -1,0 +1,23 @@
+import pandas as pd
+import numpy as np
+
+# fitting dataframe into pycharm terminal window
+desired_width = 320
+
+pd.set_option('display.width', desired_width)
+
+np.set_printoptions(linewidth=desired_width)
+
+pd.set_option('display.max_columns', 14)
+
+# calculating winrate
+
+df = pd.read_csv('totaldata.csv')
+draven_df = df.loc[df['championName'].str.contains('Draven')]
+print(draven_df)
+
+draven_wins = draven_df['win'].value_counts()[1]
+draven_losses = draven_df['win'].value_counts()[0]
+
+draven_winrate = draven_wins / (draven_wins + draven_losses)
+print(draven_winrate)
