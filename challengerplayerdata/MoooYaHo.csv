@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+51,Caitlyn,4,7,True,3,6,14,65891,8572,11,122,3006,2055
+432,Bard,14,4,True,6,2,20,26294,8616,12,36,3860,2065
+875,Sett,12,4,True,7,0,17,80178,11337,14,131,2031,6630
+64,LeeSin,4,11,True,13,3,10,136263,12766,14,55,2055,3071
+101,Xerath,4,12,True,11,3,10,100955,10520,13,119,6655,4628
+412,Thresh,14,4,False,0,9,7,12198,5192,10,24,2065,3857
+126,Jayce,4,12,False,2,6,3,85130,8706,13,135,2031,3158
+61,Orianna,4,12,False,3,8,1,69181,7607,12,127,6655,1058
+523,Aphelios,4,7,False,7,8,2,106338,10404,13,185,3036,1037
+203,Kindred,4,11,False,2,9,4,70584,6682,11,12,6672,2031

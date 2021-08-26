@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+40,Janna,14,4,True,1,6,9,10712,5920,9,5,3158,1082
+59,JarvanIV,11,4,True,7,0,13,136563,10980,13,25,2031,6630
+51,Caitlyn,3,4,True,6,3,2,91549,8642,12,154,6671,6676
+1,Annie,4,12,True,7,0,3,52724,8523,12,114,1056,3165
+234,Viego,4,14,True,3,0,4,89605,8366,13,175,1055,3047
+92,Riven,12,4,False,0,6,2,53641,5922,11,128,1036,6630
+157,Yasuo,3,4,False,4,8,1,70547,7542,10,128,3006,1054
+62,MonkeyKing,4,12,False,2,2,0,72065,6712,12,156,1054,1001
+79,Gragas,11,4,False,2,4,3,83308,6025,10,11,2424,3020
+497,Rakan,14,4,False,1,4,5,13086,4905,9,26,3860,1028

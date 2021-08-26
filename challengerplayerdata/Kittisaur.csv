@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+27,Singed,32,4,False,5,12,14,45120,10610,15,40,3111,3742
+122,Darius,4,6,False,3,10,4,23720,8807,13,27,2051,3111
+64,LeeSin,4,32,False,4,19,12,33582,9288,13,27,6693,3158
+74,Heimerdinger,7,4,False,7,7,11,43050,11031,15,38,6655,3020
+105,Fizz,32,4,False,6,10,10,27844,10349,14,24,4636,3100
+54,Malphite,4,14,True,9,7,23,32747,10864,15,28,3157,1026
+235,Senna,4,3,True,8,2,43,36943,12690,17,17,3009,6632
+236,Lucian,21,4,True,11,4,22,80283,12328,16,76,2031,6672
+55,Katarina,4,32,True,23,8,10,53530,13413,15,35,3115,4633
+25,Morgana,32,4,True,7,5,36,38880,10975,16,25,6653,3020

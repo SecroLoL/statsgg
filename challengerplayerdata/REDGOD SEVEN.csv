@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+246,Qiyana,14,4,False,0,3,0,8226,4661,8,13,3134,3070
+246,Qiyana,4,12,False,7,5,4,57396,10690,13,47,2031,6693
+246,Qiyana,4,14,False,4,5,3,54961,9049,13,84,6691,6676
+246,Qiyana,4,14,False,3,5,3,70927,9470,13,84,6693,3123
+246,Qiyana,3,4,False,2,5,0,37941,7262,12,43,6691,1055
+267,Nami,14,4,True,2,4,7,48350,8936,13,64,1018,3047
+267,Nami,4,3,True,1,5,5,30371,7308,12,48,3076,3047
+267,Nami,7,4,True,11,1,6,69615,13963,13,80,6673,3047
+267,Nami,4,14,True,6,2,9,37295,10166,14,27,6655,4629
+267,Nami,4,12,True,3,4,3,28044,7755,13,17,3157,2033

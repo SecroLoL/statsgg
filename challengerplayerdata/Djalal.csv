@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+43,Karma,4,14,True,1,1,11,17515,5565,9,6,0,2065
+203,Kindred,11,4,True,4,2,4,57925,5977,9,17,2055,2031
+127,Lissandra,12,4,True,1,0,2,67557,6125,11,147,2031,2055
+164,Camille,12,14,True,7,0,1,49852,7035,11,122,1055,1028
+236,Lucian,7,4,True,5,0,2,73828,8942,10,136,3006,6671
+121,Khazix,4,11,False,3,4,0,67277,5230,9,7,2422,1036
+412,Thresh,14,4,False,0,3,2,7495,3131,7,21,3111,2031
+85,Kennen,4,12,False,0,2,1,29817,4301,9,105,1055,1028
+240,Kled,12,4,False,0,6,0,39390,3870,9,88,1054,1036
+67,Vayne,4,7,False,0,3,1,31037,4453,9,96,1054,2031

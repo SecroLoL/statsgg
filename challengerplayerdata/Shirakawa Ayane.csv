@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+103,Ahri,4,14,False,2,4,1,96193,8320,13,167,3145,6656
+53,Blitzcrank,4,14,False,0,6,5,17168,5640,11,34,3158,2065
+81,Ezreal,7,4,False,1,4,0,95017,8175,12,191,1055,6632
+5,XinZhao,11,4,False,1,7,2,125482,7535,12,27,6630,3053
+58,Renekton,12,4,False,3,3,1,165124,11717,15,219,3047,6630
+61,Orianna,4,12,True,2,0,11,163195,11195,16,242,2033,1058
+350,Yuumi,3,14,True,1,2,15,15354,7463,12,2,3853,3041
+29,Twitch,7,4,True,11,3,3,127884,12399,12,183,1055,6671
+875,Sett,12,4,True,1,2,0,154452,9342,15,214,1055,6630
+76,Nidalee,4,11,True,9,0,9,177029,12047,16,28,4636,3157

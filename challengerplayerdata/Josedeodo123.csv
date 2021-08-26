@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+43,Karma,12,4,False,0,4,1,56123,5603,11,127,3020,6655
+523,Aphelios,4,7,False,1,3,0,83381,7416,11,168,2031,6673
+62,MonkeyKing,12,14,False,2,5,0,34477,5470,11,76,1055,6632
+201,Braum,4,3,False,0,5,1,13364,4054,8,26,1033,3857
+5,XinZhao,11,4,False,1,5,1,84123,5688,9,15,2055,2031
+412,Thresh,14,4,True,1,0,12,15075,5323,10,26,4642,3857
+164,Camille,12,14,True,3,2,9,63317,7521,12,122,1055,3077
+13,Ryze,4,12,True,11,1,7,137003,11389,13,171,3040,3020
+202,Jhin,7,4,True,3,1,5,66816,7433,11,160,6671,1036
+234,Viego,4,11,True,4,0,10,103743,8169,12,13,3047,2055

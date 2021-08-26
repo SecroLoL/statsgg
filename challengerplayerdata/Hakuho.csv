@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+64,LeeSin,4,11,False,8,7,6,189339,13362,15,33,6630,1029
+85,Kennen,14,4,False,3,8,7,106399,10214,14,181,4630,3152
+17,Teemo,4,14,False,3,5,5,146744,11155,15,219,3006,3165
+875,Sett,4,14,False,5,7,9,41363,8617,11,59,3742,3111
+22,Ashe,4,7,False,3,8,7,77720,9055,13,150,1055,1018
+3,Galio,12,4,True,10,3,12,170840,14233,17,230,3111,6656
+111,Nautilus,14,4,True,3,4,21,25562,8808,13,33,3860,3190
+58,Renekton,4,12,True,9,6,7,144351,13418,16,185,3111,3143
+76,Nidalee,11,4,True,10,4,17,186345,13708,16,30,3135,3157
+18,Tristana,7,4,True,3,5,10,209404,13597,15,238,1055,3031
