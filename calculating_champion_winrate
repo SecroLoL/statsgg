@@ -1,0 +1,26 @@
+import pandas as pd
+import numpy as np
+
+# fitting dataframe inside of pycharm terminal window
+desired_width = 320
+
+pd.set_option('display.width', desired_width)
+
+np.set_printoptions(linewidth=desired_width)
+
+pd.set_option('display.max_columns', 14)
+
+# calculating champion winrate
+df = pd.read_csv('totaldata.csv')
+janna_df = df.loc[df['championName'].str.contains('Janna')]
+print(janna_df)
+
+print(janna_df['win'].value_counts())
+
+janna_wins = janna_df['win'].value_counts()[True]
+janna_losses = janna_df['win'].value_counts()[False]
+
+janna_winrate = janna_wins / (janna_wins + janna_losses)
+print(janna_winrate)
+
+# also just groupby championName to get the correct aggregate data 
