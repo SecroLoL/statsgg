@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-click-outside-hook": "^1.1.1",
+    "styled-components": "^5.3.1"
   }
 }
