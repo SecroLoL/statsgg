@@ -239,7 +239,7 @@ export default function SearchBar() {
               <WarningMessage>No Tv Shows or Series found!</WarningMessage>
             </LoadingWrapper>
           )}
-          {!isLoading && !isEmpty && (
+          {/* {!isLoading && !isEmpty && (
             <>
               {tickers.queried_ticker.map((stock) => (
                 <StockElement
@@ -249,7 +249,7 @@ export default function SearchBar() {
                 />
               ))}
             </>
-          )}
+          )} */}
         </SearchContent>
       )}
     </SearchBarContainer>
