@@ -89,30 +89,12 @@ WSGI_APPLICATION = 'reactsite.wsgi.application'
 # }
 DATABASES = {
     'default': {
-        'ENGINE': 'djongo',
-        'NAME': 'test',
-        'HOST': f'mongodb+srv://{MONGO_USER}:{MONGO_PASS}@cluster0.8b6cg.mongodb.net/test?retryWrites=true&w=majority',
-        'USER': MONGO_USER,
-        'PASSWORD': MONGO_PASS
-        
-        # 'ENFORCE_SCHEMA': False,
-        # 'CLIENT': {
-        #     'host': 'host-name or ip address',
-        #     'port': port_number,
-        #     'username': MONGO_USER,
-        #     'password': MONGO_PASS,
-        #     'authSource': 'data',
-        #     'authMechanism': 'SCRAM-SHA-1'        
-        # },
-        # # mongodb+srv://<username>:<password>@cluster0.8b6cg.mongodb.net/test
-        # 'HOST': "mongodb+srv://cluster0.8b6cg.mongodb.net/myFirstDatabase",
-        # 'USER': MONGO_USER,
-        # 'PASSWORD': MONGO_PASS,
-        
-        # Since I have online database, will I need this eventually?
-        # 'CLIENT': {
-        #     'host': 'your-db-host'
-        # }
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'django',
+        'USER': 'postgres',
+        'PASSWORD': 'Josephhpesoj',
+        'HOST': 'localhost', # Server
+        'PORT': '5432',
     }
 }
 
