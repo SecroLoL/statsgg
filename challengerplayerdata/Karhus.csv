@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+37,Sona,4,7,False,0,6,5,21234,6109,11,66,3070,3853
+8,Vladimir,14,6,False,4,4,3,76295,8487,13,156,3152,3089
+6,Urgot,12,4,False,3,3,1,98247,8897,13,179,1054,1033
+104,Graves,4,11,False,4,8,3,149075,9104,12,63,2031,1036
+43,Karma,14,4,False,0,11,5,17744,4871,9,20,3851,2065
+24,Jax,12,4,True,4,3,3,85474,8886,14,138,2033,3078
+110,Varus,4,7,True,15,1,10,122620,13160,13,166,3142,6692
+412,Thresh,4,14,True,1,1,26,15558,6820,12,26,3190,3158
+30,Karthus,11,14,True,8,4,14,158323,10854,14,33,6653,3157
+41,Gangplank,4,12,True,4,2,7,129444,9709,14,165,1018,3508

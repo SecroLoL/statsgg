@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+39,Irelia,12,4,False,3,5,2,81786,7151,11,139,1055,3153
+59,JarvanIV,4,11,False,3,7,5,72843,6095,10,17,6630,3123
+235,Senna,4,14,False,1,9,5,32389,6000,9,29,6632,3864
+84,Akali,12,4,False,3,5,3,48610,5963,10,80,2055,4633
+31,Chogath,12,4,False,1,9,3,60050,5848,10,98,6662,1054
+20,Nunu,4,14,True,10,1,11,88053,9952,12,110,3110,3041
+24,Jax,12,4,True,5,1,2,117348,10823,13,144,2033,2055
+64,LeeSin,14,4,True,12,4,12,75663,10525,11,103,2055,6630
+106,Volibear,4,11,True,6,2,14,113898,9935,12,27,6632,3157
+37,Sona,4,7,True,2,3,25,22470,8089,11,28,3070,3853

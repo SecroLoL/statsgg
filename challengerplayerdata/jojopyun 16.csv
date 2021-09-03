@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+103,Ahri,4,14,True,3,6,12,34354,8138,12,39,3860,6656
+79,Gragas,14,4,True,4,8,5,68575,8371,13,112,1058,6655
+875,Sett,12,4,True,6,2,4,132115,11845,15,185,1054,6630
+81,Ezreal,7,4,True,15,1,4,150195,14895,13,201,3042,3156
+104,Graves,11,4,True,3,4,10,153720,9982,14,31,3179,3155
+555,Pyke,14,4,False,2,9,7,6162,7056,10,16,3864,3133
+120,Hecarim,14,6,False,4,9,0,102009,7803,14,140,6632,2033
+15,Sivir,4,7,False,0,5,6,128474,8210,13,201,3508,1036
+131,Diana,4,11,False,8,5,5,160006,11341,14,33,3152,1082
+7,Leblanc,4,14,False,6,3,8,73617,9931,13,135,6655,0

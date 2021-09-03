@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+875,Sett,12,4,True,5,1,7,75967,8179,13,141,6630,1054
+18,Tristana,7,4,True,8,2,9,109634,11595,13,169,2421,3046
+5,XinZhao,11,4,True,8,3,8,124826,9967,12,7,6630,2420
+112,Viktor,3,4,True,3,2,2,95298,8296,13,185,6655,2055
+79,Gragas,14,4,True,2,2,15,18201,6547,11,30,3190,3860
+238,Zed,4,14,False,3,4,1,78886,7479,12,163,6692,3158
+48,Trundle,4,11,False,2,5,5,96149,6777,11,7,3047,3044
+85,Kennen,12,4,False,4,3,3,95480,9655,13,188,2031,3152
+145,Kaisa,7,4,False,1,7,2,57154,6727,11,161,6672,3006
+526,Rell,4,3,False,0,7,4,14799,4600,9,29,3860,2055

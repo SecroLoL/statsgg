@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+201,Braum,3,4,False,1,5,4,11786,4064,9,25,0,3855
+76,Nidalee,11,4,False,3,5,4,71985,6481,10,7,3020,4636
+62,MonkeyKing,12,4,False,3,5,1,40207,6151,10,91,2031,6632
+238,Zed,4,14,False,2,5,3,52347,6338,11,119,1054,6692
+67,Vayne,4,7,False,3,1,2,44174,6352,10,110,1055,6673
+39,Irelia,4,12,True,2,2,2,65693,6235,10,125,2031,3153
+360,Samira,7,4,True,3,2,3,64865,7604,10,133,3134,6673
+58,Renekton,14,4,True,9,2,0,103203,10678,13,150,1055,3142
+40,Janna,4,14,True,1,2,8,16607,5563,10,3,3853,2031
+30,Karthus,4,11,True,6,4,3,126433,9127,13,28,2055,2031

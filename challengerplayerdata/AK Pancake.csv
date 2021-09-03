@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+55,Katarina,14,12,True,11,6,10,165493,13630,16,189,0,3157
+164,Camille,12,14,True,6,5,5,91449,10694,15,165,1054,3053
+110,Varus,4,7,True,7,2,9,164388,13665,15,227,6692,0
+89,Leona,14,4,True,0,2,16,19288,8058,12,33,3157,3857
+56,Nocturne,11,4,True,10,4,6,168765,12726,15,29,3053,3026
+121,Khazix,11,4,False,11,6,6,159394,13618,14,20,6695,3133
+104,Graves,4,3,False,4,7,4,119826,9711,14,198,3036,3133
+68,Rumble,14,4,False,1,9,10,92417,8610,13,157,3020,3152
+235,Senna,1,4,False,0,7,11,26839,7486,12,30,1018,6672
+126,Jayce,4,12,False,3,5,6,142242,11273,14,217,6694,2055

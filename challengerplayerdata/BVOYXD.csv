@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+4,TwistedFate,12,4,True,5,3,9,83480,9461,13,129,3041,2033
+68,Rumble,12,4,True,4,2,9,97436,9863,14,149,3165,2421
+203,Kindred,4,11,True,4,2,11,161746,10417,14,22,6672,1018
+429,Kalista,4,1,True,12,3,5,73308,10590,13,142,2031,6673
+526,Rell,14,4,True,4,5,14,19857,7230,11,26,6664,2055
+104,Graves,11,4,False,2,6,4,93521,7515,11,44,6692,3111
+412,Thresh,4,14,False,2,7,6,19641,5501,10,25,3190,2055
+22,Ashe,4,7,False,5,7,4,76984,9743,11,156,6673,3124
+59,JarvanIV,12,4,False,3,5,2,78551,8416,12,142,6630,3053
+142,Zoe,4,1,False,3,4,0,67620,7150,12,143,6655,2033
