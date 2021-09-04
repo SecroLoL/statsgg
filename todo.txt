@@ -1,0 +1,4 @@
+Use MongoDB
+pipenv shell + install the modules needed
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+https://docs.mongodb.com/mongodb-shell/connect/
