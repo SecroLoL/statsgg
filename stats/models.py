@@ -55,3 +55,6 @@ class Match(models.Model):
     totalMinionsKilled = models.IntegerField()
     item0 = models.IntegerField()
     item1 = models.IntegerField()
+
+    def __str__(self):
+        return f'{self.championName}, {self.champLevel}, {self.kills}, {self.deaths}, {self.assists}, {self.totalMinionsKilled}, {self.totalDamageDealt}'
