@@ -1,4 +1,4 @@
-from .models import Matches, Player
+from .models import Match, Player
 from .serializers import PlayerSerializer
 from rest_framework import generics, status
 from rest_framework.views import APIView
@@ -33,6 +33,7 @@ class PlayerView(generics.ListAPIView):
     queryset = Player.objects.all()
     serializer_class = PlayerSerializer
 
-class MatchesView(generics.ListAPIView):
-    queryset = Matches.objects.all()
+
+class MatchView(generics.ListAPIView):
+    queryset = Match.objects.all()
     serializer_class = PlayerSerializer

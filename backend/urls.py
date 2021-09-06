@@ -20,7 +20,7 @@ from stats import views
 from .views import index
 
 router = routers.DefaultRouter()
-router.register(r'stats', views.MatchesView, 'stat')
+router.register(r'stats', views.MatchView, 'stat')
 
 urlpatterns = [
     path('', index, name='index'),

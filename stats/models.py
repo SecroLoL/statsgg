@@ -35,7 +35,10 @@ class Champion(models.Model):
 # Anyway to create new table in pgAdmin then send it to the models.py?
 
 
-class Matches(models.Model):
+class Match(models.Model):
+
+    class Meta:
+        verbose_name_plural = 'Matches'
 
     match_id = models.AutoField(primary_key=True)
     champion = models.IntegerField()
