@@ -33,8 +33,10 @@ class Champion(models.Model):
         return f'Champion {str(self.champion_id)}'
 
 # Anyway to create new table in pgAdmin then send it to the models.py?
+
+
 class Matches(models.Model):
-    
+
     match_id = models.AutoField(primary_key=True)
     champion = models.IntegerField()
     championName = models.CharField(max_length=30)
@@ -50,4 +52,3 @@ class Matches(models.Model):
     totalMinionsKilled = models.IntegerField()
     item0 = models.IntegerField()
     item1 = models.IntegerField()
-

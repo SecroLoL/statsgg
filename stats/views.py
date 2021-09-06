@@ -1,4 +1,4 @@
-from .models import Player
+from .models import Matches, Player
 from .serializers import PlayerSerializer
 from rest_framework import generics, status
 from rest_framework.views import APIView
@@ -8,6 +8,7 @@ import os
 from django.views import View
 from django.http import HttpResponse, HttpResponseNotFound
 # Create your views here.
+# Make the views the standard CRUD (create, read, update, delete)
 
 
 class Assets(View):
@@ -30,4 +31,8 @@ class Assets(View):
 
 class PlayerView(generics.ListAPIView):
     queryset = Player.objects.all()
+    serializer_class = PlayerSerializer
+
+class MatchesView(generics.ListAPIView):
+    queryset = Matches.objects.all()
     serializer_class = PlayerSerializer

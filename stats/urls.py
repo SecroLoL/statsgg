@@ -4,5 +4,3 @@ from .views import PlayerView
 urlpatterns = [
     path('players', PlayerView.as_view()),
 ]
-
-
