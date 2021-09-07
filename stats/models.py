@@ -38,7 +38,7 @@ class Champion(models.Model):
 class Matchold(models.Model):
 
     class Meta:
-        verbose_name_plural = 'Matches'
+        verbose_name_plural = 'OldMatches'
 
     match_id = models.AutoField(primary_key=True)
     champion = models.IntegerField()
