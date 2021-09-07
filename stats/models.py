@@ -35,6 +35,30 @@ class Champion(models.Model):
 # Anyway to create new table in pgAdmin then send it to the models.py?
 
 
+class Matchold(models.Model):
+
+    class Meta:
+        verbose_name_plural = 'Matches'
+
+    match_id = models.AutoField(primary_key=True)
+    champion = models.IntegerField()
+    championName = models.CharField(max_length=30)
+    spell1 = models.IntegerField()
+    spell2 = models.IntegerField()
+    win = models.BooleanField()
+    kills = models.IntegerField()
+    deaths = models.IntegerField()
+    assists = models.IntegerField()
+    totalDamageDealt = models.IntegerField(default=0)
+    goldEarned = models.IntegerField()
+    champLevel = models.IntegerField()
+    totalMinionsKilled = models.IntegerField()
+    item0 = models.IntegerField()
+    item1 = models.IntegerField()
+
+    def __str__(self):
+        return f'{self.championName}, {self.champLevel}, {self.kills}, {self.deaths}, {self.assists}, {self.totalMinionsKilled}, {self.totalDamageDealt}'
+
 class Match(models.Model):
 
     class Meta:
