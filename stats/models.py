@@ -49,7 +49,7 @@ class Match(models.Model):
     kills = models.IntegerField()
     deaths = models.IntegerField()
     assists = models.IntegerField()
-    totalDamageDealt = models.IntegerField()
+    totalDamageDealt = models.IntegerField(default=0)
     goldEarned = models.IntegerField()
     champLevel = models.IntegerField()
     totalMinionsKilled = models.IntegerField()
