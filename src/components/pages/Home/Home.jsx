@@ -6,6 +6,7 @@ function Home() {
 
     useEffect(() => {
         axios.get('localhost:8000/stats').then((matches) => {
+            console.log(matches);
             if (matches) {
                 setMatches(matches)
             }

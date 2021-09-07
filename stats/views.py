@@ -1,5 +1,5 @@
 from .models import Match, Player
-from .serializers import PlayerSerializer
+from .serializers import PlayerSerializer, MatchSerializer
 from rest_framework import generics, status
 from rest_framework.views import APIView
 from rest_framework.response import Response
@@ -36,4 +36,4 @@ class PlayerView(generics.ListAPIView):
 
 class MatchView(generics.ListAPIView):
     queryset = Match.objects.all()
-    serializer_class = PlayerSerializer
+    serializer_class = MatchSerializer

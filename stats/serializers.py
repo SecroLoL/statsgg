@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Player, Champion
+from .models import Match, Player, Champion
 
 
 class PlayerSerializer(serializers.ModelSerializer):
@@ -11,4 +11,11 @@ class PlayerSerializer(serializers.ModelSerializer):
 class ChampionSerializer(serializers.ModelSerializer):
     class Meta:
         model = Champion
+        fields = '__all__'
+
+
+class MatchSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = Match
         fields = '__all__'
