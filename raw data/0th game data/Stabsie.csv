@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+245,Ekko,12,4,False,1,4,0,17735,3501,7,48,1082,2031
+497,Rakan,4,3,False,0,4,1,5164,2454,4,10,3117,3858
+121,Khazix,11,4,False,1,6,0,21136,2755,5,2,3134,2031
+115,Ziggs,4,12,False,1,2,3,30118,3982,7,71,1056,2031
+777,Yone,4,12,False,1,9,1,8267,2835,6,23,1055,2031
+875,Sett,4,12,True,4,0,5,58109,6706,9,102,2055,2031
+107,Rengar,12,14,True,7,0,1,36592,5711,10,99,6029,3142
+76,Nidalee,4,11,True,8,0,5,58206,6371,9,18,3145,2031
+498,Xayah,7,4,True,4,2,5,48236,5907,9,94,2422,6671
+12,Alistar,14,4,True,2,2,10,9492,4285,6,15,2055,3117

@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+136,AurelionSol,14,4,True,6,8,11,145088,12514,16,175,3020,3116
+126,Jayce,4,12,True,12,5,9,311975,18975,18,296,6695,3158
+48,Trundle,4,11,True,13,4,12,236453,18039,18,87,6632,3091
+111,Nautilus,4,14,True,1,10,20,29610,8689,15,31,3190,0
+69,Cassiopeia,4,3,True,5,7,12,158278,13876,16,211,6653,4629
+523,Aphelios,7,4,False,8,6,13,239518,18376,17,254,3031,3140
+412,Thresh,14,4,False,3,7,19,22367,9783,14,31,2065,3857
+64,LeeSin,11,4,False,13,8,7,185739,14751,16,35,6630,3133
+41,Gangplank,4,12,False,6,8,5,203432,13576,17,197,0,3078
+13,Ryze,4,12,False,4,8,14,197901,13647,17,201,6656,3157

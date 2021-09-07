@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+555,Pyke,14,4,True,10,2,3,37900,10954,12,91,3133,3142
+104,Graves,12,4,True,0,3,5,128407,9121,13,166,2031,3134
+69,Cassiopeia,4,12,True,10,4,9,104098,12323,13,182,6653,3116
+43,Karma,4,3,True,7,1,16,32002,9240,11,23,0,2065
+35,Shaco,11,14,True,6,1,10,111357,9879,13,14,3158,6653
+85,Kennen,12,4,False,4,3,1,98393,9523,14,192,4629,3152
+236,Lucian,4,14,False,4,12,2,46514,6813,10,72,3133,2031
+360,Samira,4,7,False,1,5,1,53492,6655,11,141,1055,6673
+245,Ekko,4,11,False,1,7,1,93668,6443,10,16,3108,2031
+412,Thresh,14,4,False,1,6,8,13775,6151,10,23,2055,3190

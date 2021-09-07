@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+202,Jhin,4,7,True,4,2,13,119746,11571,14,166,2055,6671
+68,Rumble,4,11,True,18,2,9,194804,14602,16,59,4636,1058
+56,Nocturne,14,12,True,8,5,4,179095,13028,16,190,6630,3193
+134,Syndra,4,14,True,10,4,10,152444,13394,16,174,2033,3040
+89,Leona,4,14,True,0,5,19,20859,7422,12,35,3860,3111
+147,Seraphine,3,4,False,1,8,9,88334,8082,13,118,3853,2065
+39,Irelia,4,12,False,1,11,3,132319,9192,14,221,6630,2420
+5,XinZhao,11,4,False,5,7,3,150513,10055,14,33,3091,1029
+69,Cassiopeia,4,12,False,8,7,5,133673,12457,15,211,3102,3116
+37,Sona,4,7,False,3,7,10,35301,9860,13,72,3853,3158

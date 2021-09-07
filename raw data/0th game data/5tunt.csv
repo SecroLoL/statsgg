@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+121,Khazix,6,4,False,6,10,2,131927,14819,16,119,3077,3042
+121,Khazix,14,4,False,1,14,10,65038,9500,15,61,3042,6692
+121,Khazix,14,4,False,3,10,10,71898,10942,16,71,3111,6630
+121,Khazix,4,6,False,4,6,7,100557,11293,16,77,3042,6692
+121,Khazix,4,11,False,6,8,6,121432,14110,17,30,6694,6630
+72,Skarner,6,4,True,14,3,13,97703,17332,17,56,3078,3742
+72,Skarner,4,3,True,13,5,11,201204,19017,18,127,6630,3074
+72,Skarner,4,3,True,3,5,16,105745,11796,17,42,6630,1031
+72,Skarner,4,6,True,7,5,15,91657,14067,18,48,6662,3158
+72,Skarner,14,4,True,11,2,15,87949,15774,18,54,3053,6632

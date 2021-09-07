@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+14,Sion,4,32,False,4,10,10,32083,10709,15,33,3068,3083
+517,Sylas,4,6,False,9,14,14,46556,12234,17,13,3157,6656
+45,Veigar,13,4,False,6,12,9,67072,11666,16,67,6655,3158
+23,Tryndamere,6,32,False,4,16,12,26439,9930,15,13,3158,4629
+92,Riven,4,32,False,9,17,13,65170,11668,17,50,3047,3134
+134,Syndra,4,3,True,11,6,29,51565,11832,16,33,3112,2421
+104,Graves,4,6,True,17,7,34,77765,13807,18,57,3184,3111
+21,MissFortune,4,13,True,10,6,39,44103,12146,17,29,3134,3020
+420,Illaoi,32,4,True,15,6,34,79556,14147,18,44,6632,3111
+10,Kayle,4,6,True,16,7,39,72643,14362,17,57,3006,3115

@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+4,TwistedFate,4,12,False,3,5,7,142308,11173,15,210,2033,6656
+235,Senna,3,4,False,0,8,12,34766,7249,13,11,3009,6632
+164,Camille,12,14,False,11,5,6,185633,15409,17,199,3074,3026
+2,Olaf,11,6,False,10,4,6,198013,13882,15,59,3065,1031
+81,Ezreal,4,1,False,1,9,7,103381,9175,13,180,1055,3042
+103,Ahri,4,12,True,4,7,10,126192,11067,16,187,3191,6656
+9,Fiddlesticks,4,11,True,9,3,6,168028,12299,16,38,3157,3135
+110,Varus,4,7,True,9,5,9,161069,13234,15,206,2421,3042
+114,Fiora,12,14,True,9,7,3,161517,15025,18,200,6630,3074
+412,Thresh,14,4,True,0,3,21,21677,9250,14,38,2065,3860

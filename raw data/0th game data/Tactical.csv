@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+126,Jayce,12,4,False,5,6,3,106977,10328,13,165,6692,6695
+13,Ryze,12,4,False,6,4,3,118990,9478,13,163,6655,0
+523,Aphelios,4,7,False,4,6,3,79120,8078,11,133,6673,2055
+89,Leona,14,4,False,0,6,9,16757,5476,10,42,3860,3190
+48,Trundle,11,4,False,3,5,8,79775,7228,12,22,2421,2055
+61,Orianna,4,12,True,5,3,7,84172,9336,13,152,2033,6653
+22,Ashe,4,7,True,6,4,10,95779,11479,13,167,3006,3051
+36,DrMundo,12,4,True,1,4,4,77132,7463,13,129,8001,3047
+104,Graves,4,11,True,9,3,6,191553,12701,15,50,6692,3134
+43,Karma,14,4,True,6,4,14,41990,8774,12,24,4005,3158

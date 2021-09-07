@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+48,Trundle,11,4,True,9,2,11,75154,9465,12,16,3047,2031
+523,Aphelios,7,4,True,14,3,10,145625,14140,13,184,6673,3006
+134,Syndra,4,14,True,1,4,7,99529,7423,12,149,2055,2031
+25,Morgana,14,4,True,2,2,23,14370,7852,11,9,0,2065
+92,Riven,12,4,True,5,5,3,85776,8875,13,127,3158,2031
+41,Gangplank,12,4,False,5,3,4,101457,9392,13,159,1038,0
+64,LeeSin,11,4,False,3,4,5,73512,7259,11,16,3142,3158
+6,Urgot,4,12,False,5,7,2,68360,7702,12,115,1055,6692
+497,Rakan,14,4,False,1,6,3,8078,4147,9,18,4642,3859
+115,Ziggs,12,4,False,2,11,4,68805,6864,10,107,6653,2031
