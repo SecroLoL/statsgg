@@ -34,7 +34,7 @@ SECRET_KEY = '=#v_9cn*%sx$5cs^iwb7)u6f=mai%9_-kl#i3vs$wzlvez2uvb'
 DEBUG = True
 
 ALLOWED_HOSTS = ['http://statsgg.herokuapp.com',
-                 'localhost:3000', '127.0.0.1:3000']
+                 'localhost:3000', '127.0.0.1:3000', 'localhost:8000', '127.0.0.1:8000']
 
 
 # Application definition
@@ -51,10 +51,7 @@ INSTALLED_APPS = [
     'stats',
 ]
 
-CORS_ORIGIN_WHITELIST = [
-    'https://localhost:3000',
-    'http://statsgg.herokuapp.com'
-]
+CORS_ORIGIN_ALLOW_ALL = True
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
