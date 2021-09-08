@@ -17,9 +17,9 @@ function Home() {
     return (
         <div>
             <h1>Stats.gg</h1>
-            {matches.forEach((match) => {
+            {matches.data.map((match) => (
                 <h1>match.championName</h1>
-            })}
+            ))}
         </div>
     )
 }
