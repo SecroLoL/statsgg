@@ -5,7 +5,7 @@ function Home() {
     const [matches, setMatches] = useState([]);
 
     useEffect(() => {
-        axios.get('http://localhost:8000/stats').then((matches) => {
+        axios.get('http://localhost:8000/stats/matches').then((matches) => {
             console.log(matches);
             if (matches) {
                 setMatches(matches)
