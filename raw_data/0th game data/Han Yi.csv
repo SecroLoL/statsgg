@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+240,Kled,4,12,False,0,6,0,19373,3474,8,65,1055,2031
+777,Yone,4,12,False,0,4,0,54961,4912,10,115,1054,2031
+497,Rakan,4,3,False,0,4,2,10751,3123,7,24,3111,3067
+131,Diana,4,11,False,1,4,0,60315,4664,8,5,1052,0
+523,Aphelios,4,1,False,1,7,1,43856,5027,9,83,6673,2031
+36,DrMundo,4,12,True,2,0,6,51040,6172,11,120,0,2031
+238,Zed,4,14,True,10,0,4,69348,9246,11,112,1055,6691
+412,Thresh,3,4,True,3,1,12,16182,5681,9,27,3158,3190
+9,Fiddlesticks,4,11,True,2,0,4,82383,6219,11,21,2424,2031
+81,Ezreal,7,4,True,8,1,1,65890,8112,9,117,1055,6632

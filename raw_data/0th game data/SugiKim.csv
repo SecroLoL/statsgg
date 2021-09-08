@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+555,Pyke,14,4,True,17,5,5,45009,17291,11,58,3156,3142
+35,Shaco,11,14,True,3,2,12,115465,9880,12,28,3158,6653
+202,Jhin,7,4,True,5,3,8,99493,9794,12,157,3047,6676
+236,Lucian,12,4,True,6,4,8,116231,9609,14,188,6694,1036
+12,Alistar,14,4,True,1,5,21,21274,7257,10,31,3157,3190
+81,Ezreal,4,21,False,0,8,7,53570,5874,10,113,2031,6632
+350,Yuumi,7,3,False,0,3,15,8197,5749,9,3,3853,3222
+55,Katarina,14,12,False,8,5,2,79993,10018,11,118,6655,3115
+5,XinZhao,4,11,False,9,5,3,107876,9778,11,30,3053,1057
+126,Jayce,12,4,False,2,11,3,78310,7093,11,139,2033,3070

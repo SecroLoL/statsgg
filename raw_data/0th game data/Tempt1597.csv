@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+429,Kalista,4,7,True,9,4,6,140984,13250,14,214,6673,3091
+64,LeeSin,11,4,True,4,3,8,187763,11294,15,46,6630,2055
+164,Camille,12,4,True,10,3,4,163108,14214,16,204,3074,3181
+4,TwistedFate,12,4,True,6,2,13,201715,15378,18,250,1058,3157
+12,Alistar,14,4,True,0,3,20,19805,8228,14,24,2055,3190
+81,Ezreal,7,4,False,4,5,3,138401,11065,13,222,3042,6632
+516,Ornn,4,12,False,2,8,7,122449,10227,15,207,3083,0
+104,Graves,4,11,False,2,4,4,219173,10921,15,65,7008,1018
+7,Leblanc,4,12,False,7,5,2,124848,11492,15,201,2033,3020
+16,Soraka,4,21,False,0,7,11,17151,6348,12,12,1052,3853

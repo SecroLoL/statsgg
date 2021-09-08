@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+122,Darius,6,4,False,4,6,0,59858,7894,12,105,1055,3078
+22,Ashe,7,4,False,4,5,1,44338,6930,10,130,6673,3051
+245,Ekko,11,4,False,2,5,3,90985,6166,11,29,3020,3152
+43,Karma,4,12,False,3,3,2,69253,6550,12,115,1052,1056
+201,Braum,3,4,False,0,7,6,15207,4614,10,35,3855,2031
+518,Neeko,4,12,True,2,5,7,65368,6922,11,126,2055,6656
+5,XinZhao,11,4,True,7,1,8,121720,9566,12,20,0,6630
+18,Tristana,4,3,True,6,3,8,72424,9197,11,120,3006,6672
+92,Riven,14,4,True,8,2,2,89526,10682,13,151,1055,3134
+111,Nautilus,14,4,True,3,2,12,25796,6279,10,38,3859,3024

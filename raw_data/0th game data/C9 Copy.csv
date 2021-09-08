@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+412,Thresh,4,14,True,1,4,15,19664,7048,11,35,3860,3190
+31,Chogath,12,4,True,3,1,7,101545,9204,14,138,6662,3075
+145,Kaisa,4,3,True,6,2,7,138565,12289,14,208,1055,3046
+64,LeeSin,4,11,True,6,2,10,130604,10671,13,13,3047,6630
+13,Ryze,4,12,True,5,5,7,140278,11137,14,178,3020,6656
+54,Malphite,12,4,False,0,6,2,57123,5712,12,89,2033,1029
+16,Soraka,4,3,False,2,4,7,21507,6677,11,13,6617,3853
+517,Sylas,12,4,False,4,4,2,110366,9484,14,189,3158,6656
+18,Tristana,4,7,False,3,5,3,110637,9693,12,182,3006,3046
+234,Viego,11,4,False,5,2,3,126000,8601,12,16,3153,3047

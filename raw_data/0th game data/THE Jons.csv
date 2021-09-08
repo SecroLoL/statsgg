@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+61,Orianna,4,12,False,0,5,1,28934,3694,9,75,2033,3157
+111,Nautilus,4,14,False,1,4,1,15645,3649,8,27,3047,3859
+22,Ashe,4,7,False,1,6,1,39475,5729,9,115,6673,3006
+58,Renekton,4,12,False,0,3,0,59084,4772,10,116,6630,1001
+19,Warwick,11,4,False,0,3,1,56872,4194,9,3,3077,2031
+86,Garen,4,14,True,3,0,1,62169,6601,12,119,3111,1054
+238,Zed,14,4,True,8,1,3,69472,7170,12,125,3134,6691
+11,MasterYi,4,11,True,4,0,3,72230,6445,9,8,3123,6691
+412,Thresh,14,4,True,0,1,11,13282,4744,9,25,3117,3190
+115,Ziggs,12,4,True,6,0,5,78665,8398,10,118,3020,3041

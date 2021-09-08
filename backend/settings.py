@@ -34,36 +34,34 @@ SECRET_KEY = '=#v_9cn*%sx$5cs^iwb7)u6f=mai%9_-kl#i3vs$wzlvez2uvb'
 DEBUG = True
 
 ALLOWED_HOSTS = ['http://statsgg.herokuapp.com',
-                 'localhost:3000', '127.0.0.1:3000']
+                 'localhost:3000', '127.0.0.1:3000', 'localhost:8000', '127.0.0.1:8000']
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'corsheaders',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'corsheaders',
     'rest_framework',
     'stats',
 ]
 
-CORS_ORIGIN_WHITELIST = [
-    'https://localhost:3000'
-]
+CORS_ORIGIN_ALLOW_ALL = True
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
+    'django.middleware.common.CommonMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]

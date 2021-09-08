@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+131,Diana,4,11,False,5,7,3,121690,8828,12,38,3152,2055
+104,Graves,14,4,False,0,8,2,77164,6200,12,138,3155,2031
+887,Gwen,6,12,False,6,7,2,89411,9312,13,171,4629,0
+89,Leona,4,14,False,1,5,8,18032,5474,9,26,3860,3190
+110,Varus,7,4,False,2,4,3,88976,7780,11,180,1053,2031
+98,Shen,4,14,True,3,4,9,23234,6850,11,28,3857,3190
+126,Jayce,12,4,True,8,6,6,107716,10905,13,127,1055,6692
+115,Ziggs,12,4,True,5,4,3,160693,11185,14,188,1056,6653
+64,LeeSin,4,11,True,9,0,12,172109,12133,15,21,6630,0
+7,Leblanc,4,14,True,6,0,8,83774,10104,14,146,3020,2033

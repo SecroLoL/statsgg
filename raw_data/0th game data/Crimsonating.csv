@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+58,Renekton,12,4,True,3,1,8,104449,9521,15,184,6630,3047
+245,Ekko,14,12,True,6,3,6,125621,10169,15,170,2033,3115
+432,Bard,4,7,True,3,2,18,14154,7641,12,8,3047,3190
+157,Yasuo,4,3,True,6,4,9,96202,9768,13,141,2055,3006
+59,JarvanIV,4,11,True,11,3,13,135228,12669,14,29,6630,3026
+53,Blitzcrank,4,14,False,2,6,5,18595,5954,9,24,2055,3860
+236,Lucian,4,3,False,2,5,3,98859,8714,12,167,6672,1036
+107,Rengar,11,4,False,5,7,3,134603,10118,13,32,3133,6029
+41,Gangplank,12,4,False,4,5,0,119275,9246,13,167,3508,2033
+55,Katarina,14,4,False,0,6,6,94054,7670,12,157,1054,3020
