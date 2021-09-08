@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+23,Tryndamere,4,6,True,7,3,5,139877,11608,14,193,6675,2031
+432,Bard,3,4,True,2,1,20,16705,8215,13,14,3190,3853
+245,Ekko,11,4,True,12,1,12,151779,12029,15,27,2031,3152
+69,Cassiopeia,7,4,True,8,2,7,124091,11914,14,186,3040,6653
+126,Jayce,12,4,True,5,4,2,142517,10098,14,153,2033,3004
+18,Tristana,7,4,False,6,8,1,104168,9345,12,160,1055,6672
+147,Seraphine,12,4,False,0,7,3,63308,5979,11,124,1056,6617
+234,Viego,4,11,False,2,11,2,87943,7163,11,18,3047,1057
+236,Lucian,12,4,False,3,5,2,114829,9404,13,188,1036,6671
+350,Yuumi,3,14,False,0,3,8,12941,5744,11,10,3853,6617

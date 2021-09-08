@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+89,Leona,4,14,False,1,6,4,14801,5177,8,29,3859,3111
+81,Ezreal,4,7,False,6,5,2,62900,8395,10,147,1055,6632
+163,Taliyah,4,11,False,0,7,7,82255,6425,11,19,4632,2055
+24,Jax,12,4,False,3,5,0,63705,6490,11,129,6632,1033
+555,Pyke,14,4,False,4,3,2,31533,7214,11,106,2031,6691
+526,Rell,4,14,True,0,4,7,13412,4719,9,23,3859,3111
+523,Aphelios,1,4,True,1,4,5,84271,8001,11,139,1055,3006
+55,Katarina,14,4,True,16,0,2,110877,12873,14,165,3041,2420
+62,MonkeyKing,4,12,True,3,3,4,51127,7288,12,112,1054,6632
+28,Evelynn,11,4,True,6,3,7,105341,8727,11,7,3152,0

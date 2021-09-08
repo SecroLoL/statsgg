@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+236,Lucian,4,1,True,2,2,3,109074,8659,13,170,1018,2422
+22,Ashe,4,7,True,2,1,5,76798,8897,13,158,3051,6673
+41,Gangplank,12,4,True,8,4,4,127388,10827,13,149,3508,2033
+147,Seraphine,4,14,True,1,3,7,33549,6905,10,18,3853,6617
+131,Diana,4,11,True,12,1,7,203790,13135,16,52,3089,3152
+119,Draven,4,3,False,0,3,1,77200,6734,11,162,1055,6673
+150,Gnar,4,12,False,4,5,1,90223,8607,13,165,1054,2031
+432,Bard,14,4,False,0,5,4,12996,4826,11,18,3851,3190
+245,Ekko,4,11,False,4,6,3,112319,7434,12,47,3152,1052
+127,Lissandra,4,12,False,3,6,1,86335,8144,12,143,2033,3152

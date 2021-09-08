@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+48,Trundle,12,4,True,10,3,5,112916,11849,15,163,6632,3076
+141,Kayn,11,4,True,4,0,12,122986,9597,13,32,6630,2031
+3,Galio,12,4,True,8,0,10,109098,11254,14,193,3047,6656
+22,Ashe,4,7,True,2,4,9,80065,8726,12,154,6673,3035
+412,Thresh,4,3,True,2,1,13,20894,6731,11,31,3857,3190
+12,Alistar,4,14,False,2,4,2,16552,5366,10,34,3860,3190
+76,Nidalee,11,4,False,2,6,2,118933,7559,12,19,0,0
+157,Yasuo,4,3,False,1,5,2,106728,8674,12,166,6673,2055
+234,Viego,4,12,False,1,4,1,88554,7547,12,168,1055,1053
+58,Renekton,12,4,False,2,7,2,94123,7672,13,156,1055,3111

@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+222,Jinx,4,1,False,7,7,7,82640,9496,11,121,1055,6672
+240,Kled,4,12,False,4,5,1,96741,9822,14,184,1054,6630
+56,Nocturne,14,11,False,2,9,10,103437,8265,13,27,6631,3044
+23,Tryndamere,4,6,False,6,6,3,101843,9675,13,144,6671,6675
+518,Neeko,4,14,False,5,5,12,40012,8944,11,36,3853,3117
+67,Vayne,1,4,True,10,3,12,136122,14109,15,160,3143,0
+111,Nautilus,14,4,True,1,7,19,20814,7054,12,28,3860,2055
+27,Singed,4,14,True,10,4,9,111402,11875,15,155,0,3152
+141,Kayn,4,11,True,6,4,12,159361,10679,14,30,3071,6630
+127,Lissandra,4,12,True,5,6,11,97344,9700,14,131,1056,3916

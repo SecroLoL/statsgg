@@ -1,0 +1,11 @@
+champion,championName,spell1,spell2,win,kills,deaths,assists,totalDamageDealt,goldEarned,champLevel,totalMinionsKilled,item0,item1
+64,LeeSin,11,4,False,4,5,3,62155,7401,10,3,6630,2031
+350,Yuumi,3,14,False,2,6,4,11246,5506,10,13,6617,3853
+114,Fiora,12,4,False,4,4,3,63284,7266,12,124,1054,6630
+81,Ezreal,4,7,False,1,11,1,60055,6344,11,105,3078,3070
+4,TwistedFate,1,4,False,3,11,4,84653,7789,12,137,3102,2033
+80,Pantheon,14,4,True,6,6,17,32305,7945,11,24,3117,3857
+234,Viego,4,11,True,13,0,7,132234,12136,13,38,0,1037
+1,Annie,4,14,True,6,3,15,87350,10418,13,160,1026,6653
+50,Swain,4,7,True,11,1,7,104397,11736,13,163,1056,3020
+150,Gnar,12,4,True,1,4,9,78401,7646,12,101,3123,6632
