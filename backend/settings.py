@@ -52,7 +52,8 @@ INSTALLED_APPS = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    'https://localhost:3000'
+    'https://localhost:3000',
+    'http://statsgg.herokuapp.com'
 ]
 
 MIDDLEWARE = [
